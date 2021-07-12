@@ -1,0 +1,24 @@
+{
+  "name": "workflow-trigger",
+  "version": "1.0.0",
+  "description": "Trigger totalcloud workflows programmatically",
+  "main": "token.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totalcloud/workflow-trigger-js.git"
+  },
+  "keywords": [
+    "totalcloud"
+  ],
+  "author": "shubham prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/totalcloud/workflow-trigger-js/issues"
+  },
+  "homepage": "https://github.com/totalcloud/workflow-trigger-js#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
